@@ -7,5 +7,6 @@ Some text for purpose.
 ## Deployment
 Text for deployment.
 ## How To Contribute
+Contributing instructions
 
 2020 Git.Training  
