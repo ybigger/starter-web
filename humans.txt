@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jon Dow jd@gmail.com @jd
 
 # THANKS
 
