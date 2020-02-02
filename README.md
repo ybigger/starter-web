@@ -6,4 +6,6 @@ Some more text in the intro section.
 Some text for purpose.
 ## Deployment
 Text for deployment.
-## How To Contribute 
+## How To Contribute
+
+2020 Git.Training  
