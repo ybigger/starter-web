@@ -2,6 +2,7 @@
 This is a simple website project to use Git and Github together.
 Add a line
 Another line
+Hot fix after stash
 ## Introduction
 Some more text in the intro section.
 ## Purpose
