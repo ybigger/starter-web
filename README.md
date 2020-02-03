@@ -11,4 +11,4 @@ Text for deployment.
 ## How To Contribute
 Contributing instructions
 
-2020 Git.Training  
+2020 Git.Training All rights reserved
